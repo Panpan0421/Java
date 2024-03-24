@@ -13,7 +13,6 @@
 
 
 6.
-
 - System.out.println(aString)(print-line) 打印aString，假设前进到下一行的起始
 - System.out.print(aString)打印aString但将对话框放置在打印的字符串之后
 - System.out.println()不带参数打印换行符
